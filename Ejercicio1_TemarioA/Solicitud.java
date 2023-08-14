@@ -26,4 +26,9 @@ public class Solicitud {
         return.this.c;
     }
 
+    public void Solicitud() {
+        this.A = this.rand.nextInt(1499) + 1;
+        this.b = this.rand.nextInt(1499) + 1;
+        this.c = this.rand.nextInt(1499) + 1;
+    }
 }

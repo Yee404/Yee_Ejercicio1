@@ -6,7 +6,7 @@ public class Registro {
 
     System.out.println("Ingrese su nombre: ");
     System.out.println("Ingrese su email: ");
-    System.out.println("Ingrese la cantidad de boletos que desea comprar: ")
-    System.out.println("Ingrese el presupuesto con el que cuenta: ")
+    System.out.println("Ingrese la cantidad de boletos que desea comprar: ");
+    System.out.println("Ingrese el presupuesto con el que cuenta: ");
     
 }
